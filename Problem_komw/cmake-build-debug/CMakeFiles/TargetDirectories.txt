@@ -1,0 +1,3 @@
+D:/A G H/INF2/Cpp_projects/Problem_komw/cmake-build-debug/CMakeFiles/Problem_komw.dir
+D:/A G H/INF2/Cpp_projects/Problem_komw/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/A G H/INF2/Cpp_projects/Problem_komw/cmake-build-debug/CMakeFiles/rebuild_cache.dir

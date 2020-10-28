@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/tsp.hpp
+cmath
+-
+functional
+-
+iostream
+-
+string
+-
+map
+-
+vector
+-
+algorithm
+-
+
+D:/A G H/INF2/Cpp_projects/Problem_komw/main.cpp
+tsp.hpp
+D:/A G H/INF2/Cpp_projects/Problem_komw/tsp.hpp
+iostream
+-
+
+D:/A G H/INF2/Cpp_projects/Problem_komw/src/tsp.cpp
+tsp.hpp
+D:/A G H/INF2/Cpp_projects/Problem_komw/src/tsp.hpp
+
